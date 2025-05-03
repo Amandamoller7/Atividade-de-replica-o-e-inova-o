@@ -1,5 +1,5 @@
 body{
-   background-color: rgba(94, 195, 94, 0.867);
+   background-color: rgba(180, 195, 180, 0.867);
    color: aliceblue;
    font-family:Arial, Helvetica, sans-serif;
    margin: 0px;
@@ -11,7 +11,7 @@ body{
 }
 .flex img{
  
-    width: 350px;
+    width: 400px;
     height: 250px;
     justify-content: first baseline;
     position: relative;
@@ -21,5 +21,13 @@ body{
     position: absolute;
     top: 200px;
     left:6px;
+}
+.Business{
+    background-color: white;
+    color: black;
+}
+
+.informacoes{
+
 }
 
