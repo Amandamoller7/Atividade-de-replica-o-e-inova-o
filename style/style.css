@@ -10,9 +10,11 @@ body{
 }
 .flex img{
  
-    width: 10px;
-    height: 80px;
+    width: 400px;
+    height: 250px;
     justify-content: first baseline;
+
+    
 
 
 }
