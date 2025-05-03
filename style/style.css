@@ -28,6 +28,14 @@ body{
 }
 
 .informacoes{
+    background-color: white;
+    color: black;
+}
+.informacoes a{
+    color: rgb(45, 116, 92);
+}
+.localizacao{
+    color:rgb(45, 116, 92);
 
 }
 
