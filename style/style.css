@@ -41,4 +41,18 @@ body{
     color:rgb(45, 116, 92);
 
 }
+.catalogo{
+    background-color: white;
+}
+.catalogo
+#flex{
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+}
+#flex img{
+    width: 90px;
+    height: 90px;
+
+}
 
