@@ -27,14 +27,17 @@ body{
     color: black;
 }
 
-.informacoes{
+.branca{
     background-color: white;
     color: black;
+    justify-content: space-between;
+    border: 5px;
+
 }
-.informacoes a{
+#informacoes a{
     color: rgb(45, 116, 92);
 }
-.localizacao{
+#localizacao{
     color:rgb(45, 116, 92);
 
 }
