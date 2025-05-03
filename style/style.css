@@ -44,7 +44,10 @@ body{
 .catalogo{
     background-color: white;
 }
-.catalogo
+.catalogo h3{
+    color: rgb(45, 116, 92);
+    
+}
 #flex{
     display: flex;
     justify-content: space-between;
